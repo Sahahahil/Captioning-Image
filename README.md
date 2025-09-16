@@ -1,6 +1,3 @@
-Here’s a polished **`README.md`** for your Image Captioning project:
-
-```markdown
 # Image Captioning with CNN + RNN
 
 This project implements an **Image Captioning system** using a **pretrained CNN (ResNet50) encoder** and an **LSTM-based RNN decoder**. It takes an input image and generates a descriptive textual caption.
